@@ -32,7 +32,7 @@ return True
 
 ```
 
-# Twitter Handle Shortener
+### 🐦 Twitter Handle Shortener
 
 ## Implementation Highlights
 
