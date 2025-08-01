@@ -29,3 +29,33 @@ for i in range(len(s)):
     elif number_started:       # Letter after digit
         return False
 return True
+
+# Twitter Handle Shortener
+
+## Implementation Highlights
+
+- Efficient vowel removal  
+- Concise string processing  
+- Preserves case formatting  
+
+## Solution Features
+
+### License Plate Validation
+- State flag (`number_started`) to track digit sequences  
+- Explicit leading zero rejection  
+- Early termination for invalid patterns  
+- Passes all test cases after iterative refinement  
+
+### Nutrition Facts
+- Clean dictionary lookup  
+- Simple key validation  
+- Clear output formatting  
+
+## Lessons Learned
+
+1. State tracking is crucial for validation rules  
+2. Edge cases (like leading zeros) require explicit handling  
+3. Iterative testing reveals subtle logic flaws  
+4. Python's string methods enable clean solutions  
+
+⏱️ **Total development time**: ~2.5 hours (including 45 minutes debugging plates.py Rule 4)
