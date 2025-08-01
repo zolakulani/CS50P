@@ -30,6 +30,8 @@ for i in range(len(s)):
         return False
 return True
 
+```
+
 # Twitter Handle Shortener
 
 ## Implementation Highlights
@@ -46,7 +48,7 @@ return True
 - Early termination for invalid patterns  
 - Passes all test cases after iterative refinement  
 
-### Nutrition Facts
+### � Nutrition Facts
 - Clean dictionary lookup  
 - Simple key validation  
 - Clear output formatting  
